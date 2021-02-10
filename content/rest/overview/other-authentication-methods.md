@@ -1,4 +1,4 @@
----
+0xca35b7d915458ef540ade6068dfe2f44e8fa733c---
 title: Other authentication methods
 intro: You can use basic authentication for testing in a non-production environment.
 redirect_from:
